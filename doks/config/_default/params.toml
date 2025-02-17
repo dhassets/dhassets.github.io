@@ -1,6 +1,5 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "DH Assets"
 images = ["cover.png"]
 
 # mainSections
@@ -14,15 +13,6 @@ mainSections = ["docs"]
   # Color mode
   colorMode = "auto" # auto (default), light or dark
   colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
-
-  # Navbar
-  navbarSticky = true # true (default) or false
-  containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
-
-  ## Button
-  navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = "Get started"
 
   # FlexSearch
   flexSearch = true # true (default) or false
