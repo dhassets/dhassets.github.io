@@ -2,25 +2,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/docs/shaders/licenses/</loc>
+      <loc>http://localhost:1313/docs/shaders/licenses/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>/docs/shaders/liquid-potion/</loc>
+      <loc>http://localhost:1313/docs/shaders/liquid-potion/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>/docs/shaders/stencil-urp/</loc>
+      <loc>http://localhost:1313/docs/shaders/stencil-urp/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>/docs/shaders/ui-blur-urp/</loc>
+      <loc>http://localhost:1313/docs/shaders/ui-blur-urp/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
